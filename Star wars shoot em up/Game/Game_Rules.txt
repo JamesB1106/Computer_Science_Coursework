@@ -1,0 +1,10 @@
+RULES
+- WASD/Arrows to move
+- Avoid the Asteroids
+- If you have less than 3 lives Astromechs will heal you
+- 500 points to pass the level
+- Collect ___ to get 50 bonus points
+- Points work like this:
+	- 0 -- 100 points ... 1 point per second
+	- 100 -- 300 points ... 1.5 points per second
+	- 300 - 500 points ... 2 points per second
